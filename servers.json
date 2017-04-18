@@ -1,6 +1,20 @@
 {
   "servers": [
-    {
+              {
+              "name": "VRO Chat & Call",
+              "description": "VRO's home servers, setup just right, keeping all your messages safe and sound!",
+              "website": "https://vromedia.live/",
+              "twitter": "https://twitter.com/vroapp",
+              "privacy_policy": "https://vromedia.live/privacy/",
+              "logo": "images/vro.png",
+              "country_code": "US",
+              "domain": "amazonaws.com",
+              "server": "ec2-54-169-209-47.ap-southeast-1.compute.amazonaws.com",
+              "port": 5222,
+              "requires_otr": false,
+              "captcha": false,
+              "certificate": "MIIELTCCAxWgAwIBAgIJAJKLxkI3FV0AMA0GCSqGSIb3DQEBCwUAMIGsMQswCQYDVQQGEwJGUjEOMAwGA1UECAwFUGFyaXMxDjAMBgNVBAcMBVBhcmlzMRMwEQYDVQQKDApQcm9jZXNzT25lMQswCQYDVQQLDAJJVDEzMDEGA1UEAwwqZWphYmJlcmQgQ29tbXVuaXR5IFNlcnZlciBUZXN0IENlcnRpZmljYXRlMSYwJAYJKoZIhvcNAQkBFhdjb250YWN0QHByb2Nlc3Mtb25lLm5ldDAeFw0xNjAzMjkxMDAzNTBaFw0yNjAyMDUxMDAzNTBaMIGsMQswCQYDVQQGEwJGUjEOMAwGA1UECAwFUGFyaXMxDjAMBgNVBAcMBVBhcmlzMRMwEQYDVQQKDApQcm9jZXNzT25lMQswCQYDVQQLDAJJVDEzMDEGA1UEAwwqZWphYmJlcmQgQ29tbXVuaXR5IFNlcnZlciBUZXN0IENlcnRpZmljYXRlMSYwJAYJKoZIhvcNAQkBFhdjb250YWN0QHByb2Nlc3Mtb25lLm5ldDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMvFjejCurQFL92vCUpIPAmLG3j+IMcB2j4uHeeuP+htdE5IuzrXhcPcaUPXWsYNbOZX6nPDeQ5WYUJt232lZSqXsyMzJDd6+ZgtgMbDc+S4RWDyLsLR0SCk4qB+udQntx7ET13XHOyB8Srqoo0gPRnSBjd1U3gQbdUFsby2sg5rOG/Jh4a5dnueC0JIxMRrAQH856v2MVCM1Rd9Pe6LPWW6t41DI4WM85khTzLdkNOzI8Tn+pq52F2oumqBRzsD5fg7SdcLQzMMdQ+XyTlyqhZ6wPeiPoD6U8a9AK97NhlHzz5UIbakX1dCiGSgGQuF6e55Ekf62xIQZ55xlAzr/s8CAwEAAaNQME4wHQYDVR0OBBYEFHxqafHb9lFsNN0CFEy5B7EHq/+8MB8GA1UdIwQYMBaAFHxqafHb9lFsNN0CFEy5B7EHq/+8MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQELBQADggEBAFn4aAg1MsBJuT64Jmox9yfT/1Jmu1GE3smguhpVcwd+Ske8WlaWpwwv3aj8/RFpipycwh1lkgfyrCZWunwSpWJ2Gu2hl7/b/H50MUuRSQPFuuatCGGqn0mAa0lIhn1HbMlZj+IqUY32ijtD0bXZ3vTAj8ZKMYFHN7y0A3hxGS0YNNCUV00P1YR5+7OImdXa1wWVgufWSnOfGZb7sjOK+eNqZioYYIUcG3pbuAxDZruZ3HoUqkQmtMcYtZIa0QJGD2k83qCgbly1U/hPwa/0l/VOqRTxRzVscluB2BQZHU96Ovxd5i8NmIeDBgSHEe6BcmSdjPgVbeIrFkCgJDrvAww="
+              },{
       "name": "DuckDuckGo",
       "description": "The search engine that doesn't track you.",
       "website": "https://duckduckgo.com",
